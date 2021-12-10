@@ -1,0 +1,12 @@
+.row{
+    height: 100%;
+}
+.list-group-items{
+    background-color: black;
+}
+
+body{
+    margin: auto 0px;
+    width: 100%;
+    height: 100%;
+}
